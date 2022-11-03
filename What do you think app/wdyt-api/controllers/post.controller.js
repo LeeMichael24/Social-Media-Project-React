@@ -51,6 +51,7 @@ controller.findOneById = async (req, res) => {
   } catch (error) {
     debug({ error });
     return res.status(500).json({ error: "Error interno de servidor" });
+    
   }
 }
 
