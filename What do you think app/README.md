@@ -1,6 +1,6 @@
 # Getting Started with Vite
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Vite](https://vitejs.dev/guide/).
 
 ## Available Scripts
 
